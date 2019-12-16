@@ -62,4 +62,15 @@ topics:
   - name: node.js
     web_url: https://github.com/topics/nodejs
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
-    
+
+  - name: Angular
+    web_url: https://github.com/topics/angular
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png
+
+  - name: jQuery
+    web_url: https://github.com/topics/jquery
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png
+
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
